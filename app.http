@@ -1,0 +1,19 @@
+Send Request
+GET https://localhost/3000/players/
+###
+
+Send Request
+POST https://localhost/3000/players/
+###
+
+Send Request
+GET https://localhost/3000/players/:playerId/
+###
+
+Send Request
+PUT https://localhost/3000/players/:playerId/
+###
+
+Send Request
+DELETE https://localhost/3000/players/:playerId/
+###
